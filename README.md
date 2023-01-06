@@ -10,4 +10,4 @@ A more convenient way to edit your .tmb files
 
 ## Currently missing:
 - The ability to delete notes, lyrics or events
-- Changing the note color (I couldnt figure out how to make a color picker)
+- Changing the note colour (I couldn't figure out how to make a colour picker)
